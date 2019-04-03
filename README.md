@@ -7,4 +7,4 @@ Then run using "python3 zipf.py" command
 Make sure to have the test data files in the same folder as the repo.
 Type the filename when prompted.
 
-Thanks to the Project Gutenberg for providing free txt novels.
+Thanks to 'Project Gutenberg' for providing free txt novels.
